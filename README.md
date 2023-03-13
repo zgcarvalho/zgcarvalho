@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a computational biologist researcher with a passion for programming and data analysis. I spend most of my time doing these activities, but I also have experience in linux system administration and high-performance computing (HPC).
+
+My area of interest in biology is the application of machine learning methods to biological data, with a special focus on protein structure. I have a background in biological sciences and completed my master's and PhD in bioinformatics.
+
+I discovered Linux (Mandrake at that time) at the age of 15 and fell in love with computing and open source from that point onwards, learning to program in my first year of college using Pascal 😂. Since then, I have delved deep into the fields of sciences and technology. To maintain a healthy balance, I enjoy playing tennis and hiking in my free time.
+
 <!--
 **zgcarvalho/zgcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
